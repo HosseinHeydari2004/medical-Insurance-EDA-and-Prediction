@@ -127,15 +127,7 @@ Medical_Insurance/
 │   └── insurance.csv
 │
 ├── notebooks/
-│   ├── 01_EDA.ipynb
-│   ├── 02_Preprocessing.ipynb
-│   └── 03_Modeling.ipynb
-│
-├── models/
-│   └── trained_models.pkl
-│
-├── requirements.txt
-└── README.md
+│   ├── medical-Insurance-notebook.ipynb
 ```
 
 ---
