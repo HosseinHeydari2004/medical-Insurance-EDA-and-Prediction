@@ -162,6 +162,9 @@ pip install -r requirements.txt
 📖 **Presentation Guide:**
 [https://t.me/imtcollege/197](https://t.me/imtcollege/197)
 
+This project has been forked from this repository:
+[MrezaMomeni/IMT](https://github.com/MrezaMomeni/IMT)
+
 ---
 
 ## 👤 Author
